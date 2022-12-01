@@ -528,4 +528,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 *.sln
-*.vxcproj*
+*.vcxproj*
